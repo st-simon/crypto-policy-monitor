@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "st-simon/crypto-policy-monitor",
+  "proposals": [
+    {
+      "id": "20261014-crypto-policy-weekly-monitor",
+      "date": "2026-10-14",
+      "title": "加密政策与行业影响力周报工具",
+      "status": "proposed",
+      "approval_scope": "spike-only",
+      "impact_level": "high",
+      "path": "proposals/active/20261014-crypto-policy-weekly-monitor.md",
+      "next": "审阅并批准有界验证；核验来源和样例后再审批正式实施"
+    }
+  ]
+}
